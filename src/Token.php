@@ -834,6 +834,7 @@ class PHP_Token_ONUMBER extends PHP_Token {}
 class PHP_Token_NULLSAFE_OBJECT_OPERATOR extends PHP_Token {}
 class PHP_Token_SHAPE extends PHP_Token {}
 class PHP_Token_SUPER extends PHP_Token {}
+class PHP_Token_TUPLE extends PHP_Token {}
 class PHP_Token_TYPE extends PHP_Token {}
 class PHP_Token_TYPELIST_GT extends PHP_Token {}
 class PHP_Token_TYPELIST_LT extends PHP_Token {}
