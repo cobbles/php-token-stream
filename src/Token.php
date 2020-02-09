@@ -839,6 +839,7 @@ class PHP_Token_TUPLE extends PHP_Token {}
 class PHP_Token_TYPE extends PHP_Token {}
 class PHP_Token_TYPELIST_GT extends PHP_Token {}
 class PHP_Token_TYPELIST_LT extends PHP_Token {}
+class PHP_Token_VEC extends PHP_Token {}
 class PHP_Token_WHERE extends PHP_Token {}
 class PHP_Token_XHP_ATTRIBUTE extends PHP_Token {}
 class PHP_Token_XHP_CATEGORY extends PHP_Token {}
